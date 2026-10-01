@@ -1,56 +1,71 @@
-## Hi, I'm Namshit 👋
+<div align="center">
 
-I like building things, learning by breaking them, and fixing them again. Welcome to my GitHub.
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/header.svg" alt="Namshit Shrivastav. I build small, focused software for desktop and the web." width="100%">
 
-### 🔭 What I'm up to
+<br>
 
-- Building small desktop and web tools
-- Learning more JavaScript and how real apps are put together
-- Getting better at writing clean, readable code
-- Making things
-- Some AI Contributions to community
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat-square&logo=instagram&logoColor=D4AF37)](https://instagram.com/namshitshrivastav)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=D4AF37)](https://x.com/NamshitShrivstv)
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:namshit25@gmail.com)
 
-### 📦 Projects
+</div>
 
-- **[JEE Guard](https://github.com/NamshitShrivastav/jee-guard)**: a Windows tray app that helps you stay focused by showing how many days are left until your exam when you open a distraction. Beta, feedback welcome.
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/label-about.svg" alt="About" width="100%">
 
-More coming soon.
+I build small, focused software, mostly desktop and web tools, and I care about the details that make a tool feel finished. I learn by building, breaking and fixing things, and I'm currently deepening my JavaScript and my understanding of how real applications are structured. I also work on AI-related contributions to the community.
 
-### 💻 Tech I use
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/label-project.svg" alt="Featured project" width="100%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### [JEE Guard](https://github.com/NamshitShrivastav/jee-guard)
 
-### 📫 Get in touch
+A focus guard for JEE aspirants. When a distracting site or app comes to the front, it covers the screen with one number: the days left until your exam. It is a strong nudge rather than a hard lock.
 
-- Email: [namshit25@gmail.com](mailto:namshit25@gmail.com)
-- Ideas or bugs: open an issue on any of my repos
+[![Release](https://img.shields.io/github/v/release/NamshitShrivastav/jee-guard?include_prereleases&label=latest&style=flat-square&labelColor=000000&color=D4AF37)](https://github.com/NamshitShrivastav/jee-guard/releases)
+![License](https://img.shields.io/badge/license-MIT-D4AF37?style=flat-square&labelColor=000000)
+![Platform](https://img.shields.io/badge/platform-Windows-D4AF37?style=flat-square&labelColor=000000)
+![Status](https://img.shields.io/badge/status-beta-D4AF37?style=flat-square&labelColor=000000)
 
-- # 💫 About Me:
-## Hi, I'm Namshit 👋<br><br>I like building things, learning by breaking them, and fixing them again. Welcome to my GitHub.<br><br>### 🔭 What I'm up to<br><br>- Building small desktop and web tools<br>- Learning more JavaScript and how real apps are put together<br>- Getting better at writing clean, readable code<br>- Making things<br>- Some AI Contributions to community<br><br>### 📦 Projects<br><br>- **[JEE Guard](https://github.com/NamshitShrivastav/jee-guard)**: a Windows tray app that helps you stay focused by showing how many days are left until your exam when you open a distraction. Beta, feedback welcome.<br><br>More coming soon.<br><br>### 💻 Tech I use<br><br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)<br>![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)<br><br>### 📫 Get in touch<br><br>- Email: [namshit25@gmail.com](mailto:namshit25@gmail.com)<br>- Ideas or bugs: open an issue on any of my repos
+| | |
+|---|---|
+| **Detection** | Blocked keywords in the active window title and blocked apps by process name, with an allowed list for study sites |
+| **Reminder** | Full-screen days-left countdown with a week-by-week prep strip |
+| **Control** | Snooze from the reminder or the tray, and a 5-second Back to study lock |
+| **Settings** | Exam date, prep start, allowed keywords, blocked sites and apps, applied immediately |
+| **Privacy** | Everything stays on your PC. No account, no telemetry |
+| **Built with** | Electron, Node.js, JavaScript |
 
+[Download](https://github.com/NamshitShrivastav/jee-guard/releases) &nbsp;|&nbsp; [Source](https://github.com/NamshitShrivastav/jee-guard) &nbsp;|&nbsp; [Report a bug](https://github.com/NamshitShrivastav/jee-guard/issues/new/choose)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/namshitshrivastav) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NamshitShrivstv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:namshit25@gmail.com) 
+**Next:** reminder on every monitor, automatic updates, and a current Electron version.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=namshitshrivastav&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=namshitshrivastav&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=namshitshrivastav&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/label-stack.svg" alt="Stack" width="100%">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=namshitshrivastav&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+| | |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=D4AF37) ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=D4AF37) ![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=D4AF37) ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat-square&logo=powershell&logoColor=D4AF37) |
+| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=D4AF37) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=D4AF37) ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=D4AF37) ![Electron](https://img.shields.io/badge/-Electron-000000?style=flat-square&logo=electron&logoColor=D4AF37) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=D4AF37) ![Windows Terminal](https://img.shields.io/badge/-Windows%20Terminal-000000?style=flat-square&logo=windows-terminal&logoColor=D4AF37) |
+| **Design** | ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=D4AF37) ![Adobe](https://img.shields.io/badge/-Adobe-000000?style=flat-square&logo=adobe&logoColor=D4AF37) |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=namshitshrivastav&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/label-github.svg" alt="GitHub" width="100%">
 
----
-[![](https://komarev.com/ghpvc/?username=namshitshrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+<img height="160" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=namshitshrivastav&show_icons=true&hide_border=false&border_color=3a3220&bg_color=000000&title_color=D4AF37&text_color=C9C9C9&icon_color=D4AF37&include_all_commits=false&count_private=false" />
+<img height="160" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=namshitshrivastav&layout=compact&hide_border=false&border_color=3a3220&bg_color=000000&title_color=D4AF37&text_color=C9C9C9" />
+
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=namshitshrivastav&background=000000&border=3a3220&stroke=3a3220&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=C9C9C9&dates=8a8a8a" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/label-open.svg" alt="Open to" width="100%">
+
+Feedback on JEE Guard, ideas for what to build next, and collaboration on small, well-made tools.
+
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/label-contact.svg" alt="Contact" width="100%">
+
+Open an issue on any of my repositories, or write to [namshit25@gmail.com](mailto:namshit25@gmail.com).
+
+<img src="https://raw.githubusercontent.com/NamshitShrivastav/NamshitShrivastav/main/assets/footer.svg" alt="" width="100%">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
